@@ -18,6 +18,8 @@ Indique el valor de las expresiones siguientes:
 4. `r = 11 / (float)2;`
 5. `b = b && i + j >= j * 5 % 3;`
 
+**Respuesta: [E01-calculo-manual](../S02-acciones-elementales/E01-calculo-manual.cpp)**
+
 ## **E02-evaluacion-expresiones**:
 
 Dados los siguientes estados iniciales de las variables y la función de potenciación `pow(base, exponente)`, evalúe e indique el resultado de cada expresión:
@@ -41,6 +43,8 @@ Dados los siguientes estados iniciales de las variables y la función de potenci
 8. `r = 13 % ((5 - 2) * 4) - (3 * 5 + 2) / pow(3, 2) < 3 + 7 * 2 - 4 + pow(12, 2);`
 9. `r = (!(3 > 1) && (2 < 10)) || ((4 > 1) && (1 < 2));`
 
+**Respuesta: [E02-evaluacion-expresiones](../S02-acciones-elementales/E02-evaluacion-expresiones.cpp)**
+
 ## **E03-numero-invertido**:
 
 Escriba un algoritmo que lea un número de cuatro dígitos y muestre en pantalla el número escrito en reverso.
@@ -55,6 +59,8 @@ Escriba un algoritmo que lea un número de cuatro dígitos y muestre en pantalla
 | `9876`   | `6789` |
 
 
+**Respuesta: [E03-numero-invertido](../S02-acciones-elementales/E03-numero-invertido.cpp)**
+
 ## **E04-raices-cuadraticas**:
 
 Escriba un algoritmo que reciba como entrada los coeficientes **a**, **b** y **c** de una ecuación de segundo grado `(ax² + bx + c = 0)`, e imprima por pantalla los valores de x. Asuma que la ecuación siempre tiene solución en números reales.
@@ -67,6 +73,8 @@ Escriba un algoritmo que reciba como entrada los coeficientes **a**, **b** y **c
 | `a = 1, b = -2, c = 1`   | `x1 = 1, x2 = 1` |
 | `a = 2, b = 5, c = 3`    | `x1 = -1, x2 = -1.5` |
 
+
+**Respuesta: [E04-raices-cuadraticas](../S02-acciones-elementales/E04-raices-cuadraticas.cpp)**
 
 ## **E05-binario-a-decimal**:
 
@@ -82,9 +90,11 @@ Escriba un algoritmo que transforme un número binario de cuatro bits a un núme
 | `0100`   | `4`    |
 
 
+**Respuesta: [E05-binario-a-decimal](../S02-acciones-elementales/E05-binario-a-decimal.cpp)**
+
 ## **E06-hipotenusa**:
 
-Escriba un algoritmo que dadas las longitudes de los catetos de un triangulo rectangulo calcule la longitud de su hipotenusa.
+Escriba un algoritmo que dadas las longitudes de los catetos de un triangulo rectángulo calcule la longitud de su hipotenusa.
 
 **Ejemplo:**
 
@@ -93,6 +103,8 @@ Escriba un algoritmo que dadas las longitudes de los catetos de un triangulo rec
 | `cateto1 = 3, cateto2 = 4` | `hipotenusa = 5` |
 | `cateto1 = 6, cateto2 = 8` | `hipotenusa = 10` |
 
+
+**Respuesta: [E06-hipotenusa](../S02-acciones-elementales/E06-hipotenusa.cpp)**
 
 ## **E07-velocidad-lineal**:
 
@@ -105,6 +117,8 @@ Escriba un algoritmo que dados la distancia recorrida por un objeto y el tiempo 
 | `distancia = 100, tiempo = 2` | `velocidad = 50` |
 | `distancia = 150, tiempo = 3` | `velocidad = 50` |
 
+
+**Respuesta: [E07-velocidad-lineal](../S02-acciones-elementales/E07-velocidad-lineal.cpp)**
 
 ## **E08-angulo-del-reloj**:
 
@@ -134,6 +148,8 @@ Escriba un algoritmo que tome como entrada la base y la altura de un triangulo, 
 | `base = 6, altura = 4, radio = 5`  | `El circulo tiene mayor area`   |
 
 
+**Respuesta: [E09-area-triangulo-circulo](../S02-acciones-elementales/E09-area-triangulo-circulo.cpp)**
+
 ## **E10-saltos-de-rana**:
 
 José y Pedro son dos ranas. José puede dar saltos de J centímetros y Pedro puede dar saltos de P centímetros. Suponiendo que ambas ranas comienzan a saltar en el mismo punto (y en la misma dirección), haga un algoritmo que determine si las ranas coincidirán en el mismo punto en algún momento antes de que José dé K saltos. Si coinciden, determine el primer punto de encuentro.
@@ -146,3 +162,18 @@ José y Pedro son dos ranas. José puede dar saltos de J centímetros y Pedro pu
 | `J = 2, P = 4, K = 5`            | `No coinciden`          |
 | `J = 6, P = 9, K = 15`           | `Coinciden en 18`       |
 
+
+**Respuesta: [E10-saltos-de-rana](../S02-acciones-elementales/E10-saltos-de-rana.cpp)**
+
+## **E11-interseccion-de-rectas**:
+
+Dadas las ecuaciones de dos rectas no paralelas `y = m1x + b1` y `y = m2x + b2`, escribir un algoritmo que calcule su punto de intersección.
+
+**Ejemplo:**
+
+| Entrada                          | Salida                  |
+|----------------------------------|-------------------------|
+| `m1 = 2, b1 = 3, m2 = -1, b2 = 5` | `x = 0.6667, y = 4.3333` |
+| `m1 = 1, b1 = 0, m2 = -1, b2 = 2` | `x = 1, y = 1`          |
+
+**Respuesta: [E11-interseccion-de-rectas](../S02-acciones-elementales/E11-interseccion-de-rectas.cpp)**
