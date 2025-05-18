@@ -120,6 +120,8 @@ Supongamos un reloj analógico (de agujas). Dada la hora exacta (horas y minutos
 | `hora = 12:00`| `0 grados`   |
 
 
+**Respuesta: [E08-angulo-del-reloj](../S02-acciones-elementales/E08-angulo-del-reloj.cpp)**
+
 ## **E09-area-triangulo-circulo**:
 
 Escriba un algoritmo que tome como entrada la base y la altura de un triangulo, el radio de un circulo y determine si el triangulo tiene un area mayor al circulo.
