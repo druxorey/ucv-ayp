@@ -112,7 +112,7 @@ Escriba un algoritmo que imprima los valores de todas las fichas de dominó sin 
 
 **Respuesta: [E07-fichas-de-domino](../S04-estructuras-de-control-iterativa/E07-fichas-de-domino.cpp)**
 
-## **E09-secuencia-decimal**:
+## **E08-secuencia-decimal**:
 
 Escriba un algoritmo lea una secuencia de dígitos entre 0 y 9 terminada en −1 que representan un número decimal e imprima el número decimal.
 
@@ -128,7 +128,7 @@ Escriba un algoritmo lea una secuencia de dígitos entre 0 y 9 terminada en −1
 
 **Respuesta: [E09-secuencia-decimal](../S04-estructuras-de-control-iterativa/E09-secuencia-decimal.cpp)**
 
-## **E10-cuadrado-borde**:
+## **E09-borde-del-cuadrado**:
 
 Escriba un algoritmo que imprima por pantalla el borde de un cuadrado de lados de tamaño N.
 
@@ -137,9 +137,9 @@ Escriba un algoritmo que imprima por pantalla el borde de un cuadrado de lados d
 ![Imagen del Ejercicio](imagenes/S04-E10.webp)
 
 
-**Respuesta: [E10-cuadrado-borde](../S04-estructuras-de-control-iterativa/E10-cuadrado-borde.cpp)**
+**Respuesta: [E10-borde-del-cuadrado](../S04-estructuras-de-control-iterativa/E10-borde-del-cuadrado.cpp)**
 
-## **E11-cuadrados-anidados**:
+## **E10-cuadrados-anidados**:
 
 Escriba un algoritmo que imprima por pantalla el borde de cuadrados de tamaño impar desde N hasta 1 insertados uno dentro de otro.
 
@@ -149,7 +149,7 @@ Escriba un algoritmo que imprima por pantalla el borde de cuadrados de tamaño i
 
 **Respuesta: [E11-cuadrados-anidados](../S04-estructuras-de-control-iterativa/E11-cuadrados-anidados.cpp)**
 
-## **E12-evaluacion-de-polinomios**:
+## **E11-evaluacion-de-polinomios**:
 
 Escriba un algoritmo que lea un número real x, un número entero n y los coeficientes reales ai de un polinomio `p(x) = a0x0 + a1x1 + x2x2 . . . an−1xn−1` y calcule el valor del polinomio para el x dado.
 
