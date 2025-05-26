@@ -18,7 +18,7 @@ Indique el valor de las expresiones siguientes:
 4. `r = 11 / (float)2;`
 5. `b = b && i + j >= j * 5 % 3;`
 
-**Respuesta: [E01-calculo-manual](../S02-acciones-elementales/E01-calculo-manual.cpp)**
+**Respuesta: [E01-calculo-manual](../S02-acciones-elementales/E01-calculo-manual.md)**
 
 ## **E02-evaluacion-expresiones**:
 
@@ -43,7 +43,7 @@ Dados los siguientes estados iniciales de las variables y la función de potenci
 8. `r = 13 % ((5 - 2) * 4) - (3 * 5 + 2) / pow(3, 2) < 3 + 7 * 2 - 4 + pow(12, 2);`
 9. `r = (!(3 > 1) && (2 < 10)) || ((4 > 1) && (1 < 2));`
 
-**Respuesta: [E02-evaluacion-expresiones](../S02-acciones-elementales/E02-evaluacion-expresiones.cpp)**
+**Respuesta: [E02-evaluacion-de-expresiones](../S02-acciones-elementales/E02-evaluacion-de-expresiones.md)**
 
 ## **E03-numero-invertido**:
 
